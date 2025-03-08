@@ -15,7 +15,7 @@ This project leverages **Machine Learning** to predict laptop prices based on ha
 ---
 
 ## **📊 Dataset**  
-- **Source:** [Laptop Dataset]([link-to-dataset](https://drive.google.com/file/d/122jYx-61rOKg_M9HourFd2_cjCQzSK20/view?usp=sharing))  
+- **Source:** [Laptop Dataset])  
 - **Attributes:** Laptop Brand, Processor, RAM, Storage, GPU, Screen Size, Operating System, Price  
 
 ---
@@ -57,4 +57,4 @@ This project leverages **Machine Learning** to predict laptop prices based on ha
 ---
 
 🔥 **If you found this project useful, don’t forget to ⭐ the repository!** 🚀  
-📩 **Feel free to connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/praveendwivedii))!**  
+📩 **Feel free to connect with me on [LinkedIn]()!**  
