@@ -1,38 +1,60 @@
-# Laptop Price Prediction Using Machine Learning
+# **Laptop Price Prediction 💻📊**  
 
-This project focuses on predicting laptop prices using machine learning techniques based on key hardware specifications and features. By leveraging Python, data analysis, and machine learning models, the goal was to develop an accurate prediction system to assist users in estimating laptop prices based on various attributes.
+This project leverages **Machine Learning** to predict laptop prices based on hardware specifications such as **RAM, Storage, Processor Type, and GPU**. By utilizing **data analysis, feature engineering, and multiple regression models**, the goal is to develop an accurate price prediction system to assist users in estimating laptop costs.  
 
-Key Features:
+---
 
-● Data Collection & Preprocessing: Collected and cleaned a dataset of 1,000+ laptops, handling missing values, outliers, and noisy data to improve model accuracy.
+## **🔍 Project Overview**  
+✔ Collected & preprocessed **1,000+ laptop records**, handling missing values, outliers, and inconsistencies.  
+✔ Conducted **Exploratory Data Analysis (EDA)** to uncover key price-driving factors.  
+✔ Engineered relevant features for optimal model performance.  
+✔ Trained & evaluated **multiple ML models** to identify the best-performing one.  
+✔ Achieved **89% accuracy** using **Random Forest Regressor**.  
+✔ Built an **interactive UI using Streamlit** for real-time price predictions.  
 
-● Exploratory Data Analysis (EDA): Conducted in-depth EDA using Pandas, NumPy, and Seaborn, uncovering key relationships between laptop specifications (e.g., RAM, storage, processor type) and their prices.
+---
 
-● Feature Engineering: Extracted and transformed relevant features, ensuring optimal model performance.
+## **📊 Dataset**  
+- **Source:** [Laptop Dataset]([link-to-dataset](https://drive.google.com/file/d/122jYx-61rOKg_M9HourFd2_cjCQzSK20/view?usp=sharing))  
+- **Attributes:** Laptop Brand, Processor, RAM, Storage, GPU, Screen Size, Operating System, Price  
 
-● Machine Learning Models:
-    
-    ▶ Trained and evaluated multiple models, including:
-     
-      ◆ Linear Regression
-     
-      ◆ Decision Tree Regressor
-     
-      ◆ Random Forest Regressor
-     
-  ● Model Evaluation: Compared model performances using metrics like R² score, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE).
-  
-  ● Achieved an accuracy of up to 89% with the Random Forest Regressor, which outperformed other models.
+---
 
-  
-Deployment & Visualization:
+## **🛠️ Technologies Used**  
+### **Programming & Tools**  
+- **Python** (Google Colab & Jupyter Notebook)  
+- **Pandas, NumPy** (Data Handling & Preprocessing)  
+- **Seaborn, Matplotlib** (Data Visualization)  
+- **Scikit-Learn** (Machine Learning)  
+- **Streamlit** (Model Deployment & UI)  
 
-  ◆ Built an interactive UI using Streamlit, allowing users to input laptop specifications and get real-time price predictions.
-  
-  ◆ Integrated Matplotlib & Seaborn for data visualization, helping users understand the impact of different features on pricing.
-  
-Tech Stack Used:
+---
 
-● Programming Languages: Python
-● Libraries & Tools: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, Streamlit
-● Model Deployment: Streamlit
+## **🤖 Machine Learning Models Used**  
+### **📌 Models Implemented**  
+✅ **Linear Regression**  
+✅ **Decision Tree Regressor**  
+✅ **Random Forest Regressor** (Best performing model)  
+
+### **📈 Model Evaluation**  
+- **R² Score:** **85% (Linear Regression), 89% (Random Forest Regressor)**  
+- **Error Metrics:** MAE, RMSE, and MSE were analyzed for model performance.  
+- **Insights:** RAM & Processor Type had the most significant impact on pricing.  
+
+---
+
+## **🚀 Deployment & Visualization**  
+🎯 **Built an interactive UI using Streamlit**, where users can input laptop specifications and get price predictions instantly.  
+📊 **Integrated Matplotlib & Seaborn** for insightful **data visualization** and feature importance analysis.  
+
+---
+
+## **📌 Results & Insights**  
+✔ **RAM size and processor type** have the most significant impact on laptop pricing.  
+✔ **Random Forest Regressor** outperformed other models, achieving the highest accuracy of **89%**.  
+✔ Price prediction improves significantly when categorical features are properly encoded and engineered.    
+
+---
+
+🔥 **If you found this project useful, don’t forget to ⭐ the repository!** 🚀  
+📩 **Feel free to connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/praveendwivedii))!**  
