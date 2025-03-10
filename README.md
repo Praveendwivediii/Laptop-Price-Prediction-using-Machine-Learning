@@ -42,7 +42,6 @@ This project leverages **Machine Learning** to predict laptop prices based on ha
 - **Insights:** RAM & Processor Type had the most significant impact on pricing.  
 
 ---
-
 ## **🚀 Deployment & Visualization**  
 🎯 **Built an interactive UI using Streamlit**, where users can input laptop specifications and get price predictions instantly.  
 📊 **Integrated Matplotlib & Seaborn** for insightful **data visualization** and feature importance analysis.  
