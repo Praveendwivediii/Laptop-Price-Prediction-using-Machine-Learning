@@ -5,7 +5,7 @@ This project leverages **Machine Learning** to predict laptop prices based on ha
 ---
 
 ## **🔍 Project Overview**  
-✔ Collected & preprocessed **1,000+ laptop records**, handling missing values, outliers, and inconsistencies.  
+✔ Collected & preprocessed **1,300+ laptop records**, handling missing values, outliers, and inconsistencies.  
 ✔ Conducted **Exploratory Data Analysis (EDA)** to uncover key price-driving factors.  
 ✔ Engineered relevant features for optimal model performance.  
 ✔ Trained & evaluated **multiple ML models** to identify the best-performing one.  
