@@ -13,7 +13,6 @@ This project leverages **Machine Learning** to predict laptop prices based on ha
 ✔ Built an **interactive UI using Streamlit** for real-time price predictions.  
 
 ---
-
 ## **📊 Dataset**  
 - **Source:** [Laptop Dataset])  
 - **Attributes:** Laptop Brand, Processor, RAM, Storage, GPU, Screen Size, Operating System, Price  
