@@ -1,4 +1,4 @@
-# **Laptop Price Predictor 💻📊**  
+# **Laptop Price Predictor💻📊**  
 
 This project leverages **Machine Learning** to predict laptop prices based on hardware specifications such as **RAM, Storage, Processor Type, and GPU**. By utilizing **data analysis, feature engineering, and multiple regression models**, the goal is to develop an accurate price prediction system to assist users in estimating laptop costs.  
 
